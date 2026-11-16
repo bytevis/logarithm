@@ -1,0 +1,152 @@
+1
+00:00:00,094 --> 00:00:00,982
+Now here's something
+
+2
+00:00:00,982 --> 00:00:02,719
+Strange Take any big
+
+3
+00:00:02,719 --> 00:00:04,094
+List of real numbers
+
+4
+00:00:04,232 --> 00:00:05,894
+City populations river
+
+5
+00:00:05,894 --> 00:00:07,644
+Lengths prices Look at
+
+6
+00:00:07,644 --> 00:00:08,619
+Just the first digit
+
+7
+00:00:08,619 --> 00:00:09,812
+Of each one You'd
+
+8
+00:00:09,812 --> 00:00:10,899
+Expect the digits one
+
+9
+00:00:10,899 --> 00:00:11,812
+Through nine to show
+
+10
+00:00:11,812 --> 00:00:13,575
+Up about equally roughly
+
+11
+00:00:13,575 --> 00:00:15,239
+Eleven percent each But
+
+12
+00:00:15,239 --> 00:00:16,639
+They don't The digit
+
+13
+00:00:16,639 --> 00:00:17,814
+One leads about thirty
+
+14
+00:00:17,814 --> 00:00:19,039
+Percent of the time
+
+15
+00:00:19,164 --> 00:00:20,452
+The digit nine Under
+
+16
+00:00:20,452 --> 00:00:22,995
+Five In 1881 an
+
+17
+00:00:22,995 --> 00:00:24,470
+Astronomer named Simon
+
+18
+00:00:24,470 --> 00:00:25,270
+Newcomb noticed
+
+19
+00:00:25,270 --> 00:00:26,170
+Something odd in a
+
+20
+00:00:26,170 --> 00:00:27,857
+Library In the books
+
+21
+00:00:27,857 --> 00:00:29,482
+Of logarithm tables the
+
+22
+00:00:29,482 --> 00:00:30,770
+First pages were far
+
+23
+00:00:30,770 --> 00:00:31,570
+More worn than the
+
+24
+00:00:31,570 --> 00:00:33,039
+Last He guessed that
+
+25
+00:00:33,039 --> 00:00:33,964
+People were looking up
+
+26
+00:00:33,964 --> 00:00:35,251
+Numbers starting with
+
+27
+00:00:35,251 --> 00:00:36,764
+One far more often
+
+28
+00:00:36,889 --> 00:00:37,739
+And the reason is
+
+29
+00:00:37,739 --> 00:00:38,784
+Hiding in a log
+
+30
+00:00:39,134 --> 00:00:40,546
+Picture a log ruler
+
+31
+00:00:40,621 --> 00:00:41,884
+Where equal distances
+
+32
+00:00:41,884 --> 00:00:43,746
+Mean equal multiplying
+
+33
+00:00:43,884 --> 00:00:44,771
+The stretch from one
+
+34
+00:00:44,771 --> 00:00:45,709
+To two takes up
+
+35
+00:00:45,709 --> 00:00:46,909
+About thirty percent of
+
+36
+00:00:46,909 --> 00:00:48,421
+The ruler The stretch
+
+37
+00:00:48,421 --> 00:00:49,596
+From nine to ten
+
+38
+00:00:49,721 --> 00:00:50,867
+Under five percent
+

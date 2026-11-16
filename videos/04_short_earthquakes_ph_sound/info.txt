@@ -1,0 +1,11 @@
+Title: Earthquakes, pH and Sound Use the Same Trick
+Format: Vertical Short / Reel (1080x1920, 45.2s)
+Description: Clip D: Real-world logarithmic scales across seismograph magnitude, pH acidity tiles, and decibels.
+
+Files in this folder:
+  - yt_short4.mp4 (1.93 MB)
+  - insta_short4.mp4 (1.92 MB)
+  - D_log_scales_vertical.mp4 (1.78 MB)
+  - D_log_scales.srt (0.00 MB)
+  - D_log_scales.ass (0.00 MB)
+  - D_log_scales_cover.png (0.10 MB)

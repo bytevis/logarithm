@@ -1,0 +1,60 @@
+{
+  "duration_s": 3.037875,
+  "words": [
+    {
+      "word": "Like",
+      "start_s": 0.05,
+      "end_s": 0.295
+    },
+    {
+      "word": "comment",
+      "start_s": 0.295,
+      "end_s": 0.723
+    },
+    {
+      "word": "share",
+      "start_s": 0.723,
+      "end_s": 1.029
+    },
+    {
+      "word": "it",
+      "start_s": 1.029,
+      "end_s": 1.152
+    },
+    {
+      "word": "with",
+      "start_s": 1.152,
+      "end_s": 1.397
+    },
+    {
+      "word": "a",
+      "start_s": 1.397,
+      "end_s": 1.458
+    },
+    {
+      "word": "friend",
+      "start_s": 1.458,
+      "end_s": 1.825
+    },
+    {
+      "word": "and",
+      "start_s": 1.825,
+      "end_s": 2.009
+    },
+    {
+      "word": "subscribe",
+      "start_s": 2.009,
+      "end_s": 2.559
+    },
+    {
+      "word": "for",
+      "start_s": 2.559,
+      "end_s": 2.743
+    },
+    {
+      "word": "more",
+      "start_s": 2.743,
+      "end_s": 2.988
+    }
+  ]
+}

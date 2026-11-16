@@ -1,0 +1,1202 @@
+[
+  {
+    "take": "st01",
+    "word": "If",
+    "start_s": 0.0,
+    "end_s": 0.101
+  },
+  {
+    "take": "st01",
+    "word": "you",
+    "start_s": 0.101,
+    "end_s": 0.238
+  },
+  {
+    "take": "st01",
+    "word": "fold",
+    "start_s": 0.238,
+    "end_s": 0.576
+  },
+  {
+    "take": "st01",
+    "word": "a",
+    "start_s": 0.576,
+    "end_s": 0.688
+  },
+  {
+    "take": "st01",
+    "word": "regular",
+    "start_s": 0.688,
+    "end_s": 1.201
+  },
+  {
+    "take": "st01",
+    "word": "sheet",
+    "start_s": 1.201,
+    "end_s": 1.438
+  },
+  {
+    "take": "st01",
+    "word": "of",
+    "start_s": 1.438,
+    "end_s": 1.526
+  },
+  {
+    "take": "st01",
+    "word": "paper",
+    "start_s": 1.526,
+    "end_s": 1.926
+  },
+  {
+    "take": "st01",
+    "word": "in",
+    "start_s": 1.926,
+    "end_s": 2.076
+  },
+  {
+    "take": "st01",
+    "word": "half",
+    "start_s": 2.076,
+    "end_s": 2.351
+  },
+  {
+    "take": "st01",
+    "word": "to",
+    "start_s": 2.351,
+    "end_s": 2.451
+  },
+  {
+    "take": "st01",
+    "word": "reach",
+    "start_s": 2.451,
+    "end_s": 2.701
+  },
+  {
+    "take": "st01",
+    "word": "the",
+    "start_s": 2.701,
+    "end_s": 2.801
+  },
+  {
+    "take": "st01",
+    "word": "Moon",
+    "start_s": 2.801,
+    "end_s": 3.451
+  },
+  {
+    "take": "st01",
+    "word": ",",
+    "start_s": 3.451,
+    "end_s": 3.588
+  },
+  {
+    "take": "st01",
+    "word": "384,400",
+    "start_s": 3.588,
+    "end_s": 5.751
+  },
+  {
+    "take": "st01",
+    "word": "kilometers",
+    "start_s": 5.751,
+    "end_s": 6.326
+  },
+  {
+    "take": "st01",
+    "word": "away",
+    "start_s": 6.326,
+    "end_s": 6.901
+  },
+  {
+    "take": "st01",
+    "word": ",",
+    "start_s": 6.901,
+    "end_s": 7.038
+  },
+  {
+    "take": "st01",
+    "word": "how",
+    "start_s": 7.038,
+    "end_s": 7.238
+  },
+  {
+    "take": "st01",
+    "word": "many",
+    "start_s": 7.238,
+    "end_s": 7.463
+  },
+  {
+    "take": "st01",
+    "word": "folds",
+    "start_s": 7.463,
+    "end_s": 7.863
+  },
+  {
+    "take": "st01",
+    "word": "would",
+    "start_s": 7.863,
+    "end_s": 7.963
+  },
+  {
+    "take": "st01",
+    "word": "it",
+    "start_s": 7.963,
+    "end_s": 8.051
+  },
+  {
+    "take": "st01",
+    "word": "take",
+    "start_s": 8.051,
+    "end_s": 8.448
+  },
+  {
+    "take": "st02",
+    "word": "Most",
+    "start_s": 8.848,
+    "end_s": 9.089
+  },
+  {
+    "take": "st02",
+    "word": "people",
+    "start_s": 9.089,
+    "end_s": 9.389
+  },
+  {
+    "take": "st02",
+    "word": "guess",
+    "start_s": 9.389,
+    "end_s": 9.639
+  },
+  {
+    "take": "st02",
+    "word": "thousands",
+    "start_s": 9.639,
+    "end_s": 10.226
+  },
+  {
+    "take": "st02",
+    "word": "or",
+    "start_s": 10.226,
+    "end_s": 10.389
+  },
+  {
+    "take": "st02",
+    "word": "even",
+    "start_s": 10.389,
+    "end_s": 10.664
+  },
+  {
+    "take": "st02",
+    "word": "millions",
+    "start_s": 10.664,
+    "end_s": 11.489
+  },
+  {
+    "take": "st02",
+    "word": ".",
+    "start_s": 11.489,
+    "end_s": 11.589
+  },
+  {
+    "take": "st02",
+    "word": "But",
+    "start_s": 11.589,
+    "end_s": 11.726
+  },
+  {
+    "take": "st02",
+    "word": "the",
+    "start_s": 11.726,
+    "end_s": 11.814
+  },
+  {
+    "take": "st02",
+    "word": "real",
+    "start_s": 11.814,
+    "end_s": 12.089
+  },
+  {
+    "take": "st02",
+    "word": "answer",
+    "start_s": 12.089,
+    "end_s": 12.601
+  },
+  {
+    "take": "st02",
+    "word": "is",
+    "start_s": 12.601,
+    "end_s": 12.789
+  },
+  {
+    "take": "st02",
+    "word": "shockingly",
+    "start_s": 12.789,
+    "end_s": 13.351
+  },
+  {
+    "take": "st02",
+    "word": "small",
+    "start_s": 13.351,
+    "end_s": 13.773
+  },
+  {
+    "take": "st03",
+    "word": "Every",
+    "start_s": 14.173,
+    "end_s": 14.429
+  },
+  {
+    "take": "st03",
+    "word": "time",
+    "start_s": 14.429,
+    "end_s": 14.667
+  },
+  {
+    "take": "st03",
+    "word": "you",
+    "start_s": 14.667,
+    "end_s": 14.792
+  },
+  {
+    "take": "st03",
+    "word": "fold",
+    "start_s": 14.792,
+    "end_s": 15.042
+  },
+  {
+    "take": "st03",
+    "word": "a",
+    "start_s": 15.042,
+    "end_s": 15.104
+  },
+  {
+    "take": "st03",
+    "word": "paper",
+    "start_s": 15.104,
+    "end_s": 15.529
+  },
+  {
+    "take": "st03",
+    "word": ",",
+    "start_s": 15.529,
+    "end_s": 15.604
+  },
+  {
+    "take": "st03",
+    "word": "its",
+    "start_s": 15.604,
+    "end_s": 15.804
+  },
+  {
+    "take": "st03",
+    "word": "thickness",
+    "start_s": 15.804,
+    "end_s": 16.204
+  },
+  {
+    "take": "st03",
+    "word": "doubles",
+    "start_s": 16.204,
+    "end_s": 17.004
+  },
+  {
+    "take": "st03",
+    "word": ".",
+    "start_s": 17.004,
+    "end_s": 17.142
+  },
+  {
+    "take": "st03",
+    "word": "One",
+    "start_s": 17.142,
+    "end_s": 17.417
+  },
+  {
+    "take": "st03",
+    "word": "fold",
+    "start_s": 17.417,
+    "end_s": 17.779
+  },
+  {
+    "take": "st03",
+    "word": "gives",
+    "start_s": 17.779,
+    "end_s": 18.042
+  },
+  {
+    "take": "st03",
+    "word": "two",
+    "start_s": 18.042,
+    "end_s": 18.254
+  },
+  {
+    "take": "st03",
+    "word": "layers",
+    "start_s": 18.254,
+    "end_s": 18.979
+  },
+  {
+    "take": "st03",
+    "word": ".",
+    "start_s": 18.979,
+    "end_s": 19.092
+  },
+  {
+    "take": "st03",
+    "word": "Two",
+    "start_s": 19.092,
+    "end_s": 19.342
+  },
+  {
+    "take": "st03",
+    "word": "folds",
+    "start_s": 19.342,
+    "end_s": 19.779
+  },
+  {
+    "take": "st03",
+    "word": "give",
+    "start_s": 19.779,
+    "end_s": 20.004
+  },
+  {
+    "take": "st03",
+    "word": "four",
+    "start_s": 20.004,
+    "end_s": 20.504
+  },
+  {
+    "take": "st03",
+    "word": ".",
+    "start_s": 20.504,
+    "end_s": 20.629
+  },
+  {
+    "take": "st03",
+    "word": "Three",
+    "start_s": 20.629,
+    "end_s": 20.967
+  },
+  {
+    "take": "st03",
+    "word": "folds",
+    "start_s": 20.967,
+    "end_s": 21.379
+  },
+  {
+    "take": "st03",
+    "word": "give",
+    "start_s": 21.379,
+    "end_s": 21.579
+  },
+  {
+    "take": "st03",
+    "word": "eight",
+    "start_s": 21.579,
+    "end_s": 21.929
+  },
+  {
+    "take": "st04",
+    "word": "A",
+    "start_s": 22.329,
+    "end_s": 22.409
+  },
+  {
+    "take": "st04",
+    "word": "logarithm",
+    "start_s": 22.409,
+    "end_s": 22.946
+  },
+  {
+    "take": "st04",
+    "word": "base",
+    "start_s": 22.946,
+    "end_s": 23.284
+  },
+  {
+    "take": "st04",
+    "word": "two",
+    "start_s": 23.284,
+    "end_s": 23.871
+  },
+  {
+    "take": "st04",
+    "word": "simply",
+    "start_s": 23.871,
+    "end_s": 24.284
+  },
+  {
+    "take": "st04",
+    "word": "flips",
+    "start_s": 24.284,
+    "end_s": 24.596
+  },
+  {
+    "take": "st04",
+    "word": "the",
+    "start_s": 24.596,
+    "end_s": 24.696
+  },
+  {
+    "take": "st04",
+    "word": "question",
+    "start_s": 24.696,
+    "end_s": 25.546
+  },
+  {
+    "take": "st04",
+    "word": ":",
+    "start_s": 25.546,
+    "end_s": 25.684
+  },
+  {
+    "take": "st04",
+    "word": "it",
+    "start_s": 25.684,
+    "end_s": 25.821
+  },
+  {
+    "take": "st04",
+    "word": "counts",
+    "start_s": 25.821,
+    "end_s": 26.121
+  },
+  {
+    "take": "st04",
+    "word": "how",
+    "start_s": 26.121,
+    "end_s": 26.296
+  },
+  {
+    "take": "st04",
+    "word": "many",
+    "start_s": 26.296,
+    "end_s": 26.521
+  },
+  {
+    "take": "st04",
+    "word": "doublings",
+    "start_s": 26.521,
+    "end_s": 27.046
+  },
+  {
+    "take": "st04",
+    "word": "it",
+    "start_s": 27.046,
+    "end_s": 27.146
+  },
+  {
+    "take": "st04",
+    "word": "takes",
+    "start_s": 27.146,
+    "end_s": 27.446
+  },
+  {
+    "take": "st04",
+    "word": "to",
+    "start_s": 27.446,
+    "end_s": 27.571
+  },
+  {
+    "take": "st04",
+    "word": "reach",
+    "start_s": 27.571,
+    "end_s": 27.809
+  },
+  {
+    "take": "st04",
+    "word": "your",
+    "start_s": 27.809,
+    "end_s": 27.921
+  },
+  {
+    "take": "st04",
+    "word": "target",
+    "start_s": 27.921,
+    "end_s": 28.417
+  },
+  {
+    "take": "st05",
+    "word": "Log",
+    "start_s": 28.828,
+    "end_s": 29.078
+  },
+  {
+    "take": "st05",
+    "word": "base",
+    "start_s": 29.078,
+    "end_s": 29.353
+  },
+  {
+    "take": "st05",
+    "word": "two",
+    "start_s": 29.353,
+    "end_s": 29.54
+  },
+  {
+    "take": "st05",
+    "word": "of",
+    "start_s": 29.54,
+    "end_s": 29.628
+  },
+  {
+    "take": "st05",
+    "word": "eight",
+    "start_s": 29.628,
+    "end_s": 29.828
+  },
+  {
+    "take": "st05",
+    "word": "is",
+    "start_s": 29.828,
+    "end_s": 29.99
+  },
+  {
+    "take": "st05",
+    "word": "three",
+    "start_s": 29.99,
+    "end_s": 30.478
+  },
+  {
+    "take": "st05",
+    "word": ",",
+    "start_s": 30.478,
+    "end_s": 30.578
+  },
+  {
+    "take": "st05",
+    "word": "because",
+    "start_s": 30.578,
+    "end_s": 30.94
+  },
+  {
+    "take": "st05",
+    "word": "three",
+    "start_s": 30.94,
+    "end_s": 31.203
+  },
+  {
+    "take": "st05",
+    "word": "doublings",
+    "start_s": 31.203,
+    "end_s": 31.628
+  },
+  {
+    "take": "st05",
+    "word": "make",
+    "start_s": 31.628,
+    "end_s": 31.828
+  },
+  {
+    "take": "st05",
+    "word": "eight",
+    "start_s": 31.828,
+    "end_s": 32.179
+  },
+  {
+    "take": "st06",
+    "word": "Now",
+    "start_s": 32.7,
+    "end_s": 32.925
+  },
+  {
+    "take": "st06",
+    "word": "look",
+    "start_s": 32.925,
+    "end_s": 33.088
+  },
+  {
+    "take": "st06",
+    "word": "at",
+    "start_s": 33.088,
+    "end_s": 33.162
+  },
+  {
+    "take": "st06",
+    "word": "the",
+    "start_s": 33.162,
+    "end_s": 33.25
+  },
+  {
+    "take": "st06",
+    "word": "Moon",
+    "start_s": 33.25,
+    "end_s": 34.0
+  },
+  {
+    "take": "st06",
+    "word": ".",
+    "start_s": 34.0,
+    "end_s": 34.125
+  },
+  {
+    "take": "st06",
+    "word": "The",
+    "start_s": 34.125,
+    "end_s": 34.288
+  },
+  {
+    "take": "st06",
+    "word": "average",
+    "start_s": 34.288,
+    "end_s": 34.7
+  },
+  {
+    "take": "st06",
+    "word": "distance",
+    "start_s": 34.7,
+    "end_s": 35.338
+  },
+  {
+    "take": "st06",
+    "word": "is",
+    "start_s": 35.338,
+    "end_s": 35.55
+  },
+  {
+    "take": "st06",
+    "word": "384,400",
+    "start_s": 35.55,
+    "end_s": 37.825
+  },
+  {
+    "take": "st06",
+    "word": "kilometers",
+    "start_s": 37.825,
+    "end_s": 38.875
+  },
+  {
+    "take": "st06",
+    "word": ".",
+    "start_s": 38.875,
+    "end_s": 39.012
+  },
+  {
+    "take": "st06",
+    "word": "Compared",
+    "start_s": 39.012,
+    "end_s": 39.425
+  },
+  {
+    "take": "st06",
+    "word": "to",
+    "start_s": 39.425,
+    "end_s": 39.525
+  },
+  {
+    "take": "st06",
+    "word": "a",
+    "start_s": 39.525,
+    "end_s": 39.638
+  },
+  {
+    "take": "st06",
+    "word": "tenth",
+    "start_s": 39.638,
+    "end_s": 39.963
+  },
+  {
+    "take": "st06",
+    "word": "of",
+    "start_s": 39.963,
+    "end_s": 40.038
+  },
+  {
+    "take": "st06",
+    "word": "a",
+    "start_s": 40.038,
+    "end_s": 40.125
+  },
+  {
+    "take": "st06",
+    "word": "millimeter",
+    "start_s": 40.125,
+    "end_s": 40.675
+  },
+  {
+    "take": "st06",
+    "word": "of",
+    "start_s": 40.675,
+    "end_s": 40.775
+  },
+  {
+    "take": "st06",
+    "word": "paper",
+    "start_s": 40.775,
+    "end_s": 41.425
+  },
+  {
+    "take": "st06",
+    "word": ",",
+    "start_s": 41.425,
+    "end_s": 41.525
+  },
+  {
+    "take": "st06",
+    "word": "that's",
+    "start_s": 41.525,
+    "end_s": 41.788
+  },
+  {
+    "take": "st06",
+    "word": "about",
+    "start_s": 41.788,
+    "end_s": 42.125
+  },
+  {
+    "take": "st06",
+    "word": "3.8",
+    "start_s": 42.125,
+    "end_s": 43.062
+  },
+  {
+    "take": "st06",
+    "word": "trillion",
+    "start_s": 43.062,
+    "end_s": 43.475
+  },
+  {
+    "take": "st06",
+    "word": "layers",
+    "start_s": 43.475,
+    "end_s": 44.049
+  },
+  {
+    "take": "st07",
+    "word": "Ten",
+    "start_s": 44.449,
+    "end_s": 44.675
+  },
+  {
+    "take": "st07",
+    "word": "folds",
+    "start_s": 44.675,
+    "end_s": 45.162
+  },
+  {
+    "take": "st07",
+    "word": "is",
+    "start_s": 45.162,
+    "end_s": 45.275
+  },
+  {
+    "take": "st07",
+    "word": "about",
+    "start_s": 45.275,
+    "end_s": 45.5
+  },
+  {
+    "take": "st07",
+    "word": "a",
+    "start_s": 45.5,
+    "end_s": 45.6
+  },
+  {
+    "take": "st07",
+    "word": "thousand",
+    "start_s": 45.6,
+    "end_s": 46.037
+  },
+  {
+    "take": "st07",
+    "word": "layers",
+    "start_s": 46.037,
+    "end_s": 46.737
+  },
+  {
+    "take": "st07",
+    "word": ",",
+    "start_s": 46.737,
+    "end_s": 46.85
+  },
+  {
+    "take": "st07",
+    "word": "ten",
+    "start_s": 46.85,
+    "end_s": 47.112
+  },
+  {
+    "take": "st07",
+    "word": "centimeters",
+    "start_s": 47.112,
+    "end_s": 47.662
+  },
+  {
+    "take": "st07",
+    "word": "high",
+    "start_s": 47.662,
+    "end_s": 48.036
+  },
+  {
+    "take": "st08",
+    "word": "Twenty",
+    "start_s": 48.336,
+    "end_s": 48.626
+  },
+  {
+    "take": "st08",
+    "word": "folds",
+    "start_s": 48.626,
+    "end_s": 49.176
+  },
+  {
+    "take": "st08",
+    "word": "is",
+    "start_s": 49.176,
+    "end_s": 49.301
+  },
+  {
+    "take": "st08",
+    "word": "a",
+    "start_s": 49.301,
+    "end_s": 49.401
+  },
+  {
+    "take": "st08",
+    "word": "million",
+    "start_s": 49.401,
+    "end_s": 50.214
+  },
+  {
+    "take": "st08",
+    "word": ".",
+    "start_s": 50.214,
+    "end_s": 50.376
+  },
+  {
+    "take": "st08",
+    "word": "Thirty",
+    "start_s": 50.376,
+    "end_s": 50.726
+  },
+  {
+    "take": "st08",
+    "word": "folds",
+    "start_s": 50.726,
+    "end_s": 51.189
+  },
+  {
+    "take": "st08",
+    "word": "is",
+    "start_s": 51.189,
+    "end_s": 51.301
+  },
+  {
+    "take": "st08",
+    "word": "a",
+    "start_s": 51.301,
+    "end_s": 51.376
+  },
+  {
+    "take": "st08",
+    "word": "billion",
+    "start_s": 51.376,
+    "end_s": 51.988
+  },
+  {
+    "take": "st08",
+    "word": ",",
+    "start_s": 51.988,
+    "end_s": 52.088
+  },
+  {
+    "take": "st08",
+    "word": "over",
+    "start_s": 52.088,
+    "end_s": 52.326
+  },
+  {
+    "take": "st08",
+    "word": "a",
+    "start_s": 52.326,
+    "end_s": 52.388
+  },
+  {
+    "take": "st08",
+    "word": "hundred",
+    "start_s": 52.388,
+    "end_s": 52.814
+  },
+  {
+    "take": "st08",
+    "word": "kilometers",
+    "start_s": 52.814,
+    "end_s": 53.388
+  },
+  {
+    "take": "st08",
+    "word": "up",
+    "start_s": 53.388,
+    "end_s": 53.688
+  },
+  {
+    "take": "st09",
+    "word": "Forty",
+    "start_s": 53.988,
+    "end_s": 54.297
+  },
+  {
+    "take": "st09",
+    "word": "folds",
+    "start_s": 54.297,
+    "end_s": 54.784
+  },
+  {
+    "take": "st09",
+    "word": "is",
+    "start_s": 54.784,
+    "end_s": 54.909
+  },
+  {
+    "take": "st09",
+    "word": "over",
+    "start_s": 54.909,
+    "end_s": 55.147
+  },
+  {
+    "take": "st09",
+    "word": "a",
+    "start_s": 55.147,
+    "end_s": 55.222
+  },
+  {
+    "take": "st09",
+    "word": "trillion",
+    "start_s": 55.222,
+    "end_s": 55.959
+  },
+  {
+    "take": "st09",
+    "word": ",",
+    "start_s": 55.959,
+    "end_s": 56.059
+  },
+  {
+    "take": "st09",
+    "word": "110,000",
+    "start_s": 56.059,
+    "end_s": 57.284
+  },
+  {
+    "take": "st09",
+    "word": "kilometers",
+    "start_s": 57.284,
+    "end_s": 58.045
+  },
+  {
+    "take": "st10",
+    "word": "Forty-one",
+    "start_s": 58.345,
+    "end_s": 58.861
+  },
+  {
+    "take": "st10",
+    "word": "is",
+    "start_s": 58.861,
+    "end_s": 59.024
+  },
+  {
+    "take": "st10",
+    "word": "220,000",
+    "start_s": 59.024,
+    "end_s": 60.161
+  },
+  {
+    "take": "st10",
+    "word": "kilometers",
+    "start_s": 60.161,
+    "end_s": 61.011
+  },
+  {
+    "take": "st10",
+    "word": ",",
+    "start_s": 61.011,
+    "end_s": 61.124
+  },
+  {
+    "take": "st10",
+    "word": "still",
+    "start_s": 61.124,
+    "end_s": 61.436
+  },
+  {
+    "take": "st10",
+    "word": "short",
+    "start_s": 61.436,
+    "end_s": 61.888
+  },
+  {
+    "take": "st11",
+    "word": "And",
+    "start_s": 62.188,
+    "end_s": 62.313
+  },
+  {
+    "take": "st11",
+    "word": "forty-two",
+    "start_s": 62.313,
+    "end_s": 62.813
+  },
+  {
+    "take": "st11",
+    "word": "folds",
+    "start_s": 62.813,
+    "end_s": 63.426
+  },
+  {
+    "take": "st11",
+    "word": "?",
+    "start_s": 63.426,
+    "end_s": 63.538
+  },
+  {
+    "take": "st11",
+    "word": "440,000",
+    "start_s": 63.538,
+    "end_s": 64.876
+  },
+  {
+    "take": "st11",
+    "word": "kilometers",
+    "start_s": 64.876,
+    "end_s": 65.701
+  },
+  {
+    "take": "st11",
+    "word": ".",
+    "start_s": 65.701,
+    "end_s": 65.813
+  },
+  {
+    "take": "st11",
+    "word": "Past",
+    "start_s": 65.813,
+    "end_s": 66.188
+  },
+  {
+    "take": "st11",
+    "word": "the",
+    "start_s": 66.188,
+    "end_s": 66.276
+  },
+  {
+    "take": "st11",
+    "word": "Moon",
+    "start_s": 66.276,
+    "end_s": 66.674
+  },
+  {
+    "take": "st12",
+    "word": "Just",
+    "start_s": 67.074,
+    "end_s": 67.345
+  },
+  {
+    "take": "st12",
+    "word": "forty-two",
+    "start_s": 67.345,
+    "end_s": 67.882
+  },
+  {
+    "take": "st12",
+    "word": "folds",
+    "start_s": 67.882,
+    "end_s": 68.67
+  },
+  {
+    "take": "st12",
+    "word": ".",
+    "start_s": 68.67,
+    "end_s": 68.782
+  },
+  {
+    "take": "st12",
+    "word": "That",
+    "start_s": 68.782,
+    "end_s": 69.02
+  },
+  {
+    "take": "st12",
+    "word": "is",
+    "start_s": 69.02,
+    "end_s": 69.132
+  },
+  {
+    "take": "st12",
+    "word": "what",
+    "start_s": 69.132,
+    "end_s": 69.257
+  },
+  {
+    "take": "st12",
+    "word": "a",
+    "start_s": 69.257,
+    "end_s": 69.345
+  },
+  {
+    "take": "st12",
+    "word": "logarithm",
+    "start_s": 69.345,
+    "end_s": 69.957
+  },
+  {
+    "take": "st12",
+    "word": "actually",
+    "start_s": 69.957,
+    "end_s": 70.457
+  },
+  {
+    "take": "st12",
+    "word": "is",
+    "start_s": 70.457,
+    "end_s": 71.02
+  },
+  {
+    "take": "st12",
+    "word": ":",
+    "start_s": 71.02,
+    "end_s": 71.157
+  },
+  {
+    "take": "st12",
+    "word": "counting",
+    "start_s": 71.157,
+    "end_s": 71.582
+  },
+  {
+    "take": "st12",
+    "word": "the",
+    "start_s": 71.582,
+    "end_s": 71.67
+  },
+  {
+    "take": "st12",
+    "word": "hidden",
+    "start_s": 71.67,
+    "end_s": 71.97
+  },
+  {
+    "take": "st12",
+    "word": "steps",
+    "start_s": 71.97,
+    "end_s": 72.395
+  },
+  {
+    "take": "st12",
+    "word": "of",
+    "start_s": 72.395,
+    "end_s": 72.495
+  },
+  {
+    "take": "st12",
+    "word": "explosive",
+    "start_s": 72.495,
+    "end_s": 73.12
+  },
+  {
+    "take": "st12",
+    "word": "growth",
+    "start_s": 73.12,
+    "end_s": 73.566
+  }
+]

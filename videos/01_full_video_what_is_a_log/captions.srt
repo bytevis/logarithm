@@ -1,0 +1,552 @@
+1
+00:00:00,004 --> 00:00:01,404
+How many times would you have to
+
+2
+00:00:01,404 --> 00:00:03,029
+fold a sheet of paper to reach
+
+3
+00:00:03,029 --> 00:00:05,328
+the Moon Take a guess Thousands
+
+4
+00:00:05,441 --> 00:00:07,626
+Millions The real answer is far
+
+5
+00:00:07,626 --> 00:00:09,963
+smaller and finding it takes one tool
+
+6
+00:00:10,101 --> 00:00:11,732
+a log By the end of this
+
+7
+00:00:11,732 --> 00:00:13,107
+video you'll work it out in your
+
+8
+00:00:13,107 --> 00:00:17,101
+head No calculator Here's the setup A
+
+9
+00:00:17,101 --> 00:00:18,626
+sheet of paper is about a tenth
+
+10
+00:00:18,626 --> 00:00:20,741
+of a millimeter thick Fold it once
+
+11
+00:00:20,778 --> 00:00:22,841
+and you have two layers Fold again
+
+12
+00:00:22,903 --> 00:00:25,350
+four Then eight sixteen thirty-two
+
+13
+00:00:25,701 --> 00:00:28,351
+Every fold doubles the thickness After
+
+14
+00:00:28,351 --> 00:00:30,288
+any number of folds the stack is
+
+15
+00:00:30,288 --> 00:00:32,351
+two multiplied by itself that many
+
+16
+00:00:32,351 --> 00:00:35,330
+times Now flip the question Instead of
+
+17
+00:00:35,330 --> 00:00:37,605
+asking how thick the stack gets ask
+
+18
+00:00:37,605 --> 00:00:39,142
+how many doublings it takes to reach
+
+19
+00:00:39,142 --> 00:00:41,632
+a target That's a log A log
+
+20
+00:00:41,632 --> 00:00:43,982
+answers one question how many times do
+
+21
+00:00:43,982 --> 00:00:46,338
+I multiply Take eight How many twos
+
+22
+00:00:46,338 --> 00:00:48,288
+do I multiply together to make it
+
+23
+00:00:48,426 --> 00:00:51,188
+Two times two times two Three twos
+
+24
+00:00:51,313 --> 00:00:52,851
+So log base two of eight is
+
+25
+00:00:52,851 --> 00:00:56,072
+three Same idea with tens A thousand
+
+26
+00:00:56,072 --> 00:00:58,334
+is ten times ten times ten so
+
+27
+00:00:58,334 --> 00:01:00,034
+log base ten of a thousand is
+
+28
+00:01:00,034 --> 00:01:02,642
+three That's the whole definition A
+
+29
+00:01:02,642 --> 00:01:04,917
+log counts multiplications It's the
+
+30
+00:01:04,917 --> 00:01:07,689
+exponent Pause and try one What is
+
+31
+00:01:07,689 --> 00:01:11,641
+log base two of thirty-two Five Two
+
+32
+00:01:11,641 --> 00:01:13,478
+times two times two times two times
+
+33
+00:01:13,478 --> 00:01:16,220
+two is thirty-two So our paper problem
+
+34
+00:01:16,220 --> 00:01:18,232
+is a log How many doublings make
+
+35
+00:01:18,232 --> 00:01:20,170
+the stack reach the Moon Hold that
+
+36
+00:01:20,170 --> 00:01:23,130
+thought Let's draw it Folds along the
+
+37
+00:01:23,130 --> 00:01:25,605
+bottom layers up the side The curve
+
+38
+00:01:25,605 --> 00:01:27,905
+starts slowly then rockets up That's
+
+39
+00:01:27,905 --> 00:01:30,948
+exponential growth Now swap the axes
+
+40
+00:01:31,085 --> 00:01:32,985
+Layers along the bottom folds up the
+
+41
+00:01:32,985 --> 00:01:35,873
+side It's the same curve flipped This
+
+42
+00:01:35,873 --> 00:01:37,783
+is the graph of a log Watch
+
+43
+00:01:37,783 --> 00:01:39,708
+how it behaves It shoots up at
+
+44
+00:01:39,708 --> 00:01:42,145
+first then flattens And every time the
+
+45
+00:01:42,145 --> 00:01:43,933
+number doubles the log goes up by
+
+46
+00:01:43,933 --> 00:01:46,514
+exactly one One to two one step
+
+47
+00:01:46,626 --> 00:01:48,389
+Two to four one step Four to
+
+48
+00:01:48,389 --> 00:01:50,614
+eight one step Eight to sixteen one
+
+49
+00:01:50,614 --> 00:01:52,934
+more It never stops climbing but it
+
+50
+00:01:52,934 --> 00:01:55,734
+climbs incredibly slowly To get from
+
+51
+00:01:55,734 --> 00:01:57,659
+one to a million the log only
+
+52
+00:01:57,659 --> 00:01:59,986
+reaches about twenty The two curves
+
+53
+00:01:59,986 --> 00:02:02,123
+are mirror images across a diagonal
+
+54
+00:02:02,123 --> 00:02:04,686
+line A log is the undo button
+
+55
+00:02:04,686 --> 00:02:07,485
+for an exponent Now here's something
+
+56
+00:02:07,485 --> 00:02:09,872
+strange Take any big list of real
+
+57
+00:02:09,872 --> 00:02:12,747
+numbers city populations river lengths
+
+58
+00:02:12,797 --> 00:02:15,122
+prices Look at just the first digit
+
+59
+00:02:15,122 --> 00:02:17,177
+of each one You'd expect the digits
+
+60
+00:02:17,177 --> 00:02:18,790
+one through nine to show up about
+
+61
+00:02:18,790 --> 00:02:21,289
+equally roughly eleven percent each
+
+62
+00:02:21,639 --> 00:02:23,655
+But they don't The digit one leads
+
+63
+00:02:23,655 --> 00:02:25,792
+about thirty percent of the time The
+
+64
+00:02:25,792 --> 00:02:29,498
+digit nine Under five In 1881 an
+
+65
+00:02:29,498 --> 00:02:31,773
+astronomer named Simon Newcomb noticed
+
+66
+00:02:31,773 --> 00:02:34,098
+something odd in a library In the
+
+67
+00:02:34,098 --> 00:02:36,298
+books of logarithm tables the first
+
+68
+00:02:36,298 --> 00:02:38,073
+pages were far more worn than the
+
+69
+00:02:38,073 --> 00:02:40,017
+last He guessed that people were
+
+70
+00:02:40,017 --> 00:02:42,004
+looking up numbers starting with one
+
+71
+00:02:42,004 --> 00:02:44,242
+far more often And the reason is
+
+72
+00:02:44,242 --> 00:02:46,549
+hiding in a log Picture a log
+
+73
+00:02:46,549 --> 00:02:49,074
+ruler where equal distances mean equal
+
+74
+00:02:49,074 --> 00:02:51,412
+multiplying The stretch from one to
+
+75
+00:02:51,412 --> 00:02:53,412
+two takes up about thirty percent of
+
+76
+00:02:53,412 --> 00:02:55,549
+the ruler The stretch from nine to
+
+77
+00:02:55,549 --> 00:02:57,953
+ten Under five percent Think of
+
+78
+00:02:57,953 --> 00:02:59,378
+something growing by a steady
+
+79
+00:02:59,378 --> 00:03:01,640
+percentage each year Going from a
+
+80
+00:03:01,640 --> 00:03:03,653
+thousand to two thousand takes more
+
+81
+00:03:03,653 --> 00:03:05,878
+than six times as long as going
+
+82
+00:03:05,878 --> 00:03:08,590
+from nine thousand to ten thousand So
+
+83
+00:03:08,590 --> 00:03:10,128
+numbers spend more of their time
+
+84
+00:03:10,128 --> 00:03:12,445
+starting with a one Auditors use this
+
+85
+00:03:12,445 --> 00:03:14,870
+to spot fake data People inventing
+
+86
+00:03:14,870 --> 00:03:16,470
+numbers tend to spread their first
+
+87
+00:03:16,470 --> 00:03:18,870
+digits too evenly It only works on
+
+88
+00:03:18,870 --> 00:03:21,033
+numbers that span a wide range and
+
+89
+00:03:21,033 --> 00:03:23,483
+it can't prove fraud It just raises
+
+90
+00:03:23,483 --> 00:03:26,592
+a flag That log ruler shows up
+
+91
+00:03:26,592 --> 00:03:28,154
+wherever we need to squash a huge
+
+92
+00:03:28,154 --> 00:03:30,959
+range into small numbers Earthquakes
+
+93
+00:03:31,097 --> 00:03:33,347
+Each whole step up the magnitude scale
+
+94
+00:03:33,347 --> 00:03:35,297
+means ten times bigger waves on a
+
+95
+00:03:35,297 --> 00:03:37,634
+seismograph and about thirty-two times
+
+96
+00:03:37,634 --> 00:03:40,322
+more energy So a magnitude seven is
+
+97
+00:03:40,322 --> 00:03:42,221
+a hundred times bigger than a five
+
+98
+00:03:42,571 --> 00:03:45,141
+Acidity On the pH scale each step
+
+99
+00:03:45,141 --> 00:03:47,591
+down is ten times more acidic A
+
+100
+00:03:47,591 --> 00:03:49,666
+pH of three is a thousand times
+
+101
+00:03:49,666 --> 00:03:51,580
+more acidic than a pH of six
+
+102
+00:03:51,930 --> 00:03:54,613
+And sound Every ten decibels means ten
+
+103
+00:03:54,613 --> 00:03:57,413
+times more sound intensity A whisper
+
+104
+00:03:57,413 --> 00:03:59,838
+is about thirty decibels a jet engine
+
+105
+00:03:59,838 --> 00:04:02,113
+up close about one hundred forty
+
+106
+00:04:02,275 --> 00:04:03,475
+That's a difference of around a
+
+107
+00:04:03,475 --> 00:04:05,800
+hundred billion times squeezed into
+
+108
+00:04:05,800 --> 00:04:08,822
+two numbers Same trick every time A
+
+109
+00:04:08,822 --> 00:04:10,747
+step on the ruler isn't adding It's
+
+110
+00:04:10,747 --> 00:04:13,507
+multiplying Now let's pay off that
+
+111
+00:04:13,507 --> 00:04:15,582
+promise How many folds to reach the
+
+112
+00:04:15,582 --> 00:04:17,986
+Moon The Moon is about three hundred
+
+113
+00:04:17,986 --> 00:04:20,324
+eighty-four thousand kilometers away
+
+114
+00:04:20,499 --> 00:04:21,999
+Our paper is a tenth of a
+
+115
+00:04:21,999 --> 00:04:24,374
+millimeter thick So the stack has to
+
+116
+00:04:24,374 --> 00:04:26,249
+get about three point eight trillion
+
+117
+00:04:26,249 --> 00:04:28,683
+times thicker Here's the mental trick
+
+118
+00:04:28,820 --> 00:04:30,295
+Two to the power of ten is
+
+119
+00:04:30,295 --> 00:04:32,220
+one thousand twenty-four Call it a
+
+120
+00:04:32,220 --> 00:04:34,732
+thousand So ten doublings is about a
+
+121
+00:04:34,732 --> 00:04:37,319
+thousand Twenty is about a million
+
+122
+00:04:37,469 --> 00:04:39,632
+Thirty a billion Forty about a
+
+123
+00:04:39,632 --> 00:04:41,972
+trillion Forty doublings gets us about
+
+124
+00:04:41,972 --> 00:04:44,772
+a trillion still short Forty-one isn't
+
+125
+00:04:44,772 --> 00:04:47,209
+enough But forty-two is a little over
+
+126
+00:04:47,209 --> 00:04:49,027
+four trillion and that's enough
+
+127
+00:04:49,415 --> 00:04:51,740
+Forty-two folds The same answer a
+
+128
+00:04:51,740 --> 00:04:53,515
+calculator gives worked out in your
+
+129
+00:04:53,515 --> 00:04:56,046
+head Of course a normal sheet only
+
+130
+00:04:56,046 --> 00:04:58,008
+folds about seven or eight times by
+
+131
+00:04:58,008 --> 00:05:00,933
+hand The record is twelve set by
+
+132
+00:05:00,933 --> 00:05:02,608
+a high school student named Britney
+
+133
+00:05:02,608 --> 00:05:04,996
+Gallivan using over a kilometer of
+
+134
+00:05:04,996 --> 00:05:07,783
+toilet paper But the math doesn't care
+
+135
+00:05:07,883 --> 00:05:09,464
+and that's the power of a log
+
+136
+00:05:09,833 --> 00:05:11,508
+A log just counts how many times
+
+137
+00:05:11,508 --> 00:05:14,470
+you multiply Forty-two doublings and a
+
+138
+00:05:14,470 --> 00:05:16,109
+sheet of paper reaches the Moon
+

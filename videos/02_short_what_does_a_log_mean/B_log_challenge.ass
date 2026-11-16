@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Headline,Arial,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,330,1
+Style: Caption,Arial,76,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,140,140,1320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:34.91,Headline,,90,90,330,,What does a {\c&H000B9EF5&}log{\c&H00FFFFFF&} actually mean?
+Dialogue: 1,0:00:00.05,0:00:01.25,Caption,,140,140,1320,,That's a log A
+Dialogue: 1,0:00:01.25,0:00:02.89,Caption,,140,140,1320,,Log answers one question
+Dialogue: 1,0:00:03.00,0:00:03.96,Caption,,140,140,1320,,How many times do
+Dialogue: 1,0:00:03.96,0:00:05.64,Caption,,140,140,1320,,I multiply Take eight
+Dialogue: 1,0:00:05.69,0:00:06.46,Caption,,140,140,1320,,How many twos do
+Dialogue: 1,0:00:06.46,0:00:07.53,Caption,,140,140,1320,,I multiply together to
+Dialogue: 1,0:00:07.53,0:00:09.01,Caption,,140,140,1320,,Make it Two times
+Dialogue: 1,0:00:09.01,0:00:10.53,Caption,,140,140,1320,,Two times two Three
+Dialogue: 1,0:00:10.53,0:00:12.14,Caption,,140,140,1320,,Twos So log base
+Dialogue: 1,0:00:12.14,0:00:12.83,Caption,,140,140,1320,,Two of eight is
+Dialogue: 1,0:00:12.83,0:00:14.53,Caption,,140,140,1320,,Three Same idea with
+Dialogue: 1,0:00:14.53,0:00:16.21,Caption,,140,140,1320,,Tens A thousand is
+Dialogue: 1,0:00:16.21,0:00:17.50,Caption,,140,140,1320,,Ten times ten times
+Dialogue: 1,0:00:17.50,0:00:18.96,Caption,,140,140,1320,,Ten so log base
+Dialogue: 1,0:00:18.96,0:00:19.85,Caption,,140,140,1320,,Ten of a thousand
+Dialogue: 1,0:00:19.85,0:00:21.18,Caption,,140,140,1320,,Is three That's the
+Dialogue: 1,0:00:21.18,0:00:23.05,Caption,,140,140,1320,,Whole definition A log
+Dialogue: 1,0:00:23.05,0:00:24.48,Caption,,140,140,1320,,Counts multiplications
+Dialogue: 1,0:00:24.59,0:00:26.37,Caption,,140,140,1320,,It's the exponent Pause
+Dialogue: 1,0:00:26.37,0:00:27.53,Caption,,140,140,1320,,And try one What
+Dialogue: 1,0:00:27.53,0:00:28.52,Caption,,140,140,1320,,Is log base two
+Dialogue: 1,0:00:28.52,0:00:31.62,Caption,,140,140,1320,,Of thirty-two Five Two
+Dialogue: 1,0:00:31.62,0:00:32.62,Caption,,140,140,1320,,Times two times two
+Dialogue: 1,0:00:32.62,0:00:33.95,Caption,,140,140,1320,,Times two times two
+Dialogue: 1,0:00:33.95,0:00:34.79,Caption,,140,140,1320,,Is thirty-two

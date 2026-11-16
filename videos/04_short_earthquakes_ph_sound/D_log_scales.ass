@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Headline,Arial,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,330,1
+Style: Caption,Arial,76,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,140,140,1320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:41.81,Headline,,90,90,330,,The same math hides in earthquakes, acid and {\c&H000B9EF5&}sound{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.05,0:00:01.78,Caption,,140,140,1320,,Earthquakes Each whole
+Dialogue: 1,0:00:01.78,0:00:02.86,Caption,,140,140,1320,,Step up the magnitude
+Dialogue: 1,0:00:02.86,0:00:04.38,Caption,,140,140,1320,,Scale means ten times
+Dialogue: 1,0:00:04.38,0:00:05.37,Caption,,140,140,1320,,Bigger waves on a
+Dialogue: 1,0:00:05.37,0:00:06.85,Caption,,140,140,1320,,Seismograph and about
+Dialogue: 1,0:00:06.85,0:00:07.91,Caption,,140,140,1320,,Thirty-two times more
+Dialogue: 1,0:00:07.91,0:00:09.77,Caption,,140,140,1320,,Energy So a magnitude
+Dialogue: 1,0:00:09.77,0:00:10.83,Caption,,140,140,1320,,Seven is a hundred
+Dialogue: 1,0:00:10.83,0:00:11.77,Caption,,140,140,1320,,Times bigger than a
+Dialogue: 1,0:00:11.77,0:00:13.64,Caption,,140,140,1320,,Five Acidity On the
+Dialogue: 1,0:00:13.64,0:00:15.22,Caption,,140,140,1320,,PH scale each step
+Dialogue: 1,0:00:15.22,0:00:16.37,Caption,,140,140,1320,,Down is ten times
+Dialogue: 1,0:00:16.37,0:00:18.05,Caption,,140,140,1320,,More acidic A pH
+Dialogue: 1,0:00:18.05,0:00:18.90,Caption,,140,140,1320,,Of three is a
+Dialogue: 1,0:00:18.90,0:00:19.94,Caption,,140,140,1320,,Thousand times more
+Dialogue: 1,0:00:19.94,0:00:21.03,Caption,,140,140,1320,,Acidic than a pH
+Dialogue: 1,0:00:21.03,0:00:22.86,Caption,,140,140,1320,,Of six And sound
+Dialogue: 1,0:00:23.00,0:00:24.42,Caption,,140,140,1320,,Every ten decibels means
+Dialogue: 1,0:00:24.42,0:00:25.71,Caption,,140,140,1320,,Ten times more sound
+Dialogue: 1,0:00:25.71,0:00:27.61,Caption,,140,140,1320,,Intensity A whisper is
+Dialogue: 1,0:00:27.61,0:00:29.31,Caption,,140,140,1320,,About thirty decibels a
+Dialogue: 1,0:00:29.31,0:00:30.49,Caption,,140,140,1320,,Jet engine up close
+Dialogue: 1,0:00:30.49,0:00:32.19,Caption,,140,140,1320,,About one hundred forty
+Dialogue: 1,0:00:32.35,0:00:33.19,Caption,,140,140,1320,,That's a difference of
+Dialogue: 1,0:00:33.19,0:00:34.41,Caption,,140,140,1320,,Around a hundred billion
+Dialogue: 1,0:00:34.41,0:00:36.09,Caption,,140,140,1320,,Times squeezed into two
+Dialogue: 1,0:00:36.09,0:00:37.97,Caption,,140,140,1320,,Numbers Same trick every
+Dialogue: 1,0:00:37.97,0:00:39.26,Caption,,140,140,1320,,Time A step on
+Dialogue: 1,0:00:39.26,0:00:40.50,Caption,,140,140,1320,,The ruler isn't adding
+Dialogue: 1,0:00:40.57,0:00:41.69,Caption,,140,140,1320,,It's multiplying

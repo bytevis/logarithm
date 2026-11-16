@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Headline,Arial,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,330,1
+Style: Caption,Arial,76,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,140,140,1320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:44.29,Headline,,90,90,330,,The graph that never stops {\c&H000B9EF5&}climbing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.05,0:00:01.39,Caption,,140,140,1320,,Let's draw it Folds
+Dialogue: 1,0:00:01.39,0:00:02.69,Caption,,140,140,1320,,Along the bottom layers
+Dialogue: 1,0:00:02.69,0:00:03.88,Caption,,140,140,1320,,Up the side The
+Dialogue: 1,0:00:03.88,0:00:05.25,Caption,,140,140,1320,,Curve starts slowly then
+Dialogue: 1,0:00:05.25,0:00:06.53,Caption,,140,140,1320,,Rockets up That's
+Dialogue: 1,0:00:06.53,0:00:08.36,Caption,,140,140,1320,,Exponential growth Now
+Dialogue: 1,0:00:08.36,0:00:10.12,Caption,,140,140,1320,,Swap the axes Layers
+Dialogue: 1,0:00:10.12,0:00:11.36,Caption,,140,140,1320,,Along the bottom folds
+Dialogue: 1,0:00:11.36,0:00:12.53,Caption,,140,140,1320,,Up the side It's
+Dialogue: 1,0:00:12.53,0:00:14.12,Caption,,140,140,1320,,The same curve flipped
+Dialogue: 1,0:00:14.26,0:00:15.08,Caption,,140,140,1320,,This is the graph
+Dialogue: 1,0:00:15.08,0:00:16.40,Caption,,140,140,1320,,Of a log Watch
+Dialogue: 1,0:00:16.40,0:00:17.84,Caption,,140,140,1320,,How it behaves It
+Dialogue: 1,0:00:17.84,0:00:18.73,Caption,,140,140,1320,,Shoots up at first
+Dialogue: 1,0:00:18.78,0:00:20.43,Caption,,140,140,1320,,Then flattens And every
+Dialogue: 1,0:00:20.43,0:00:21.45,Caption,,140,140,1320,,Time the number doubles
+Dialogue: 1,0:00:21.53,0:00:22.38,Caption,,140,140,1320,,The log goes up
+Dialogue: 1,0:00:22.38,0:00:23.93,Caption,,140,140,1320,,By exactly one One
+Dialogue: 1,0:00:23.93,0:00:25.13,Caption,,140,140,1320,,To two one step
+Dialogue: 1,0:00:25.25,0:00:26.08,Caption,,140,140,1320,,Two to four one
+Dialogue: 1,0:00:26.08,0:00:27.23,Caption,,140,140,1320,,Step Four to eight
+Dialogue: 1,0:00:27.28,0:00:28.51,Caption,,140,140,1320,,One step Eight to
+Dialogue: 1,0:00:28.51,0:00:30.05,Caption,,140,140,1320,,Sixteen one more It
+Dialogue: 1,0:00:30.05,0:00:31.47,Caption,,140,140,1320,,Never stops climbing but
+Dialogue: 1,0:00:31.47,0:00:32.69,Caption,,140,140,1320,,It climbs incredibly
+Dialogue: 1,0:00:32.69,0:00:34.35,Caption,,140,140,1320,,Slowly To get from
+Dialogue: 1,0:00:34.35,0:00:35.38,Caption,,140,140,1320,,One to a million
+Dialogue: 1,0:00:35.48,0:00:36.70,Caption,,140,140,1320,,The log only reaches
+Dialogue: 1,0:00:36.70,0:00:38.17,Caption,,140,140,1320,,About twenty The two
+Dialogue: 1,0:00:38.17,0:00:39.76,Caption,,140,140,1320,,Curves are mirror images
+Dialogue: 1,0:00:39.76,0:00:41.49,Caption,,140,140,1320,,Across a diagonal line
+Dialogue: 1,0:00:41.66,0:00:42.53,Caption,,140,140,1320,,A log is the
+Dialogue: 1,0:00:42.53,0:00:43.52,Caption,,140,140,1320,,Undo button for an
+Dialogue: 1,0:00:43.52,0:00:44.17,Caption,,140,140,1320,,Exponent

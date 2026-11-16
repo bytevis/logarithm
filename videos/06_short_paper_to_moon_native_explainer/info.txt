@@ -1,0 +1,9 @@
+Title: How 42 Folds Reach the Moon (Native Vertical Animation)
+Format: Native Vertical Manim Short (1080x1920, 75.4s)
+Description: Dedicated full-screen vertical animated short covering the entire paper fold puzzle and log payoff.
+
+Files in this folder:
+  - log_vertical_shorts.mp4 (3.80 MB)
+  - short_vertical_captions.srt (0.00 MB)
+  - short_vertical_captions.ass (0.00 MB)
+  - short_voice.wav (3.45 MB)

@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,200,200,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.44,Default,,200,200,45,,If you fold a regular sheet
+Dialogue: 0,0:00:01.44,0:00:02.70,Default,,200,200,45,,of paper in half to reach
+Dialogue: 0,0:00:02.70,0:00:06.90,Default,,200,200,45,,the Moon , 384,400 kilometers away
+Dialogue: 0,0:00:06.90,0:00:08.05,Default,,200,200,45,,, how many folds would it
+Dialogue: 0,0:00:08.05,0:00:10.39,Default,,200,200,45,,take Most people guess thousands or
+Dialogue: 0,0:00:10.39,0:00:12.09,Default,,200,200,45,,even millions . But the real
+Dialogue: 0,0:00:12.09,0:00:14.43,Default,,200,200,45,,answer is shockingly small Every
+Dialogue: 0,0:00:14.43,0:00:15.60,Default,,200,200,45,,time you fold a paper ,
+Dialogue: 0,0:00:15.60,0:00:17.78,Default,,200,200,45,,its thickness doubles . One fold
+Dialogue: 0,0:00:17.78,0:00:19.78,Default,,200,200,45,,gives two layers . Two folds
+Dialogue: 0,0:00:19.78,0:00:21.58,Default,,200,200,45,,give four . Three folds give
+Dialogue: 0,0:00:21.58,0:00:24.28,Default,,200,200,45,,eight A logarithm base two simply
+Dialogue: 0,0:00:24.28,0:00:26.12,Default,,200,200,45,,flips the question : it counts
+Dialogue: 0,0:00:26.12,0:00:27.57,Default,,200,200,45,,how many doublings it takes to
+Dialogue: 0,0:00:27.57,0:00:29.54,Default,,200,200,45,,reach your target Log base two
+Dialogue: 0,0:00:29.54,0:00:30.94,Default,,200,200,45,,of eight is three , because
+Dialogue: 0,0:00:30.94,0:00:33.09,Default,,200,200,45,,three doublings make eight Now look
+Dialogue: 0,0:00:33.09,0:00:34.70,Default,,200,200,45,,at the Moon . The average
+Dialogue: 0,0:00:34.70,0:00:39.01,Default,,200,200,45,,distance is 384,400 kilometers .
+Dialogue: 0,0:00:39.01,0:00:40.12,Default,,200,200,45,,Compared to a tenth of a
+Dialogue: 0,0:00:40.12,0:00:42.12,Default,,200,200,45,,millimeter of paper , that's about
+Dialogue: 0,0:00:42.12,0:00:45.27,Default,,200,200,45,,3.8 trillion layers Ten folds is
+Dialogue: 0,0:00:45.27,0:00:47.11,Default,,200,200,45,,about a thousand layers , ten
+Dialogue: 0,0:00:47.11,0:00:49.40,Default,,200,200,45,,centimeters high Twenty folds is a
+Dialogue: 0,0:00:49.40,0:00:51.38,Default,,200,200,45,,million . Thirty folds is a
+Dialogue: 0,0:00:51.38,0:00:53.39,Default,,200,200,45,,billion , over a hundred kilometers
+Dialogue: 0,0:00:53.39,0:00:55.22,Default,,200,200,45,,up Forty folds is over a
+Dialogue: 0,0:00:55.22,0:00:58.05,Default,,200,200,45,,trillion , 110,000 kilometers
+Dialogue: 0,0:00:58.34,0:01:01.12,Default,,200,200,45,,Forty-one is 220,000 kilometers ,
+Dialogue: 0,0:01:01.12,0:01:03.54,Default,,200,200,45,,still short And forty-two folds ?
+Dialogue: 0,0:01:03.54,0:01:06.67,Default,,200,200,45,,440,000 kilometers . Past the Moon
+Dialogue: 0,0:01:07.07,0:01:09.13,Default,,200,200,45,,Just forty-two folds . That is
+Dialogue: 0,0:01:09.13,0:01:11.16,Default,,200,200,45,,what a logarithm actually is :
+Dialogue: 0,0:01:11.16,0:01:12.50,Default,,200,200,45,,counting the hidden steps of
+Dialogue: 0,0:01:12.50,0:01:13.57,Default,,200,200,45,,explosive growth

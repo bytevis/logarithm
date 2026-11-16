@@ -1,0 +1,470 @@
+{
+  "voice": "af_heart",
+  "sample_rate": 24000,
+  "total_s": 317.109,
+  "extra_hold_s": 1.0,
+  "sections": [
+    {
+      "id": "S1_HOOK",
+      "start_s": 0.0,
+      "end_s": 15.726,
+      "takes": [
+        {
+          "id": "t01",
+          "mode": "H",
+          "speed": 0.98,
+          "pause_after_s": 0.45,
+          "start_s": 0.0,
+          "speech_end_s": 3.532,
+          "end_s": 3.982,
+          "text": "How many times would you have to fold a sheet of paper to reach the Moon?"
+        },
+        {
+          "id": "t02",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 3.982,
+          "speech_end_s": 6.098,
+          "end_s": 6.448,
+          "text": "Take a guess. Thousands? Millions?"
+        },
+        {
+          "id": "t03",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 6.448,
+          "speech_end_s": 10.694,
+          "end_s": 11.044,
+          "text": "The real answer is far smaller, and finding it takes one tool: a log."
+        },
+        {
+          "id": "t04",
+          "mode": "E",
+          "speed": 0.98,
+          "pause_after_s": 0.85,
+          "start_s": 11.044,
+          "speech_end_s": 14.876,
+          "end_s": 15.726,
+          "text": "By the end of this video, you'll work it out in your head. No calculator."
+        }
+      ]
+    },
+    {
+      "id": "S2_IDEA",
+      "start_s": 15.726,
+      "end_s": 81.429,
+      "takes": [
+        {
+          "id": "t05",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 15.726,
+          "speech_end_s": 19.753,
+          "end_s": 20.103,
+          "text": "Here's the setup. A sheet of paper is about a tenth of a millimeter thick."
+        },
+        {
+          "id": "t06",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 20.103,
+          "speech_end_s": 25.35,
+          "end_s": 25.7,
+          "text": "Fold it once, and you have two layers. Fold again, four. Then eight, sixteen, thirty-two."
+        },
+        {
+          "id": "t07",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 25.7,
+          "speech_end_s": 32.923,
+          "end_s": 33.273,
+          "text": "Every fold doubles the thickness. After any number of folds, the stack is two multiplied by itself that many times."
+        },
+        {
+          "id": "t08",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 33.273,
+          "speech_end_s": 39.72,
+          "end_s": 40.07,
+          "text": "Now flip the question. Instead of asking how thick the stack gets, ask how many doublings it takes to reach a target."
+        },
+        {
+          "id": "t09",
+          "mode": "E",
+          "speed": 0.98,
+          "pause_after_s": 0.4,
+          "start_s": 40.07,
+          "speech_end_s": 44.76,
+          "end_s": 45.16,
+          "text": "That's a log. A log answers one question: how many times do I multiply?"
+        },
+        {
+          "id": "t10",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 45.16,
+          "speech_end_s": 53.259,
+          "end_s": 53.609,
+          "text": "Take eight. How many twos do I multiply together to make it? Two times two times two. Three twos. So log base two of eight is three."
+        },
+        {
+          "id": "t11",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 53.609,
+          "speech_end_s": 60.42,
+          "end_s": 60.77,
+          "text": "Same idea with tens. A thousand is ten times ten times ten, so log base ten of a thousand is three."
+        },
+        {
+          "id": "t12",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 60.77,
+          "speech_end_s": 65.638,
+          "end_s": 65.988,
+          "text": "That's the whole definition. A log counts multiplications. It's the exponent."
+        },
+        {
+          "id": "t13",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 1.6,
+          "start_s": 65.988,
+          "speech_end_s": 69.285,
+          "end_s": 70.885,
+          "text": "Pause and try one. What is log base two of thirty-two?"
+        },
+        {
+          "id": "t14",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 70.885,
+          "speech_end_s": 74.805,
+          "end_s": 75.155,
+          "text": "Five. Two times two times two times two times two is thirty-two."
+        },
+        {
+          "id": "t15",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.8,
+          "start_s": 75.155,
+          "speech_end_s": 80.629,
+          "end_s": 81.429,
+          "text": "So our paper problem is a log. How many doublings make the stack reach the Moon? Hold that thought."
+        }
+      ]
+    },
+    {
+      "id": "S3_GRAPH",
+      "start_s": 81.429,
+      "end_s": 126.553,
+      "takes": [
+        {
+          "id": "t16",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 81.429,
+          "speech_end_s": 89.098,
+          "end_s": 89.448,
+          "text": "Let's draw it. Folds along the bottom, layers up the side. The curve starts slowly, then rockets up. That's exponential growth."
+        },
+        {
+          "id": "t17",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 89.448,
+          "speech_end_s": 97.104,
+          "end_s": 97.454,
+          "text": "Now swap the axes. Layers along the bottom, folds up the side. It's the same curve, flipped. This is the graph of a log."
+        },
+        {
+          "id": "t18",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 97.454,
+          "speech_end_s": 104.804,
+          "end_s": 105.154,
+          "text": "Watch how it behaves. It shoots up at first, then flattens. And every time the number doubles, the log goes up by exactly one."
+        },
+        {
+          "id": "t19",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 105.154,
+          "speech_end_s": 110.978,
+          "end_s": 111.328,
+          "text": "One to two, one step. Two to four, one step. Four to eight, one step. Eight to sixteen, one more."
+        },
+        {
+          "id": "t20",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 111.328,
+          "speech_end_s": 118.88,
+          "end_s": 119.23,
+          "text": "It never stops climbing, but it climbs incredibly slowly. To get from one to a million, the log only reaches about twenty."
+        },
+        {
+          "id": "t21",
+          "mode": "S",
+          "speed": 0.95,
+          "pause_after_s": 1.0,
+          "start_s": 119.23,
+          "speech_end_s": 125.553,
+          "end_s": 126.553,
+          "text": "The two curves are mirror images across a diagonal line. A log is the undo button for an exponent."
+        }
+      ]
+    },
+    {
+      "id": "S4_PATTERN",
+      "start_s": 126.553,
+      "end_s": 204.876,
+      "takes": [
+        {
+          "id": "t22",
+          "mode": "H",
+          "speed": 0.98,
+          "pause_after_s": 0.45,
+          "start_s": 126.553,
+          "speech_end_s": 135.771,
+          "end_s": 136.221,
+          "text": "Now here's something strange. Take any big list of real numbers: city populations, river lengths, prices. Look at just the first digit of each one."
+        },
+        {
+          "id": "t23",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 136.221,
+          "speech_end_s": 141.289,
+          "end_s": 141.639,
+          "text": "You'd expect the digits one through nine to show up about equally, roughly eleven percent each."
+        },
+        {
+          "id": "t24",
+          "mode": "E",
+          "speed": 0.98,
+          "pause_after_s": 0.4,
+          "start_s": 141.639,
+          "speech_end_s": 147.496,
+          "end_s": 147.896,
+          "text": "But they don't. The digit one leads about thirty percent of the time. The digit nine? Under five."
+        },
+        {
+          "id": "t25",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 147.896,
+          "speech_end_s": 158.593,
+          "end_s": 158.943,
+          "text": "In 1881, an astronomer named Simon Newcomb noticed something odd in a library. In the books of logarithm tables, the first pages were far more worn than the last."
+        },
+        {
+          "id": "t26",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 158.943,
+          "speech_end_s": 165.287,
+          "end_s": 165.637,
+          "text": "He guessed that people were looking up numbers starting with one far more often. And the reason is hiding in a log."
+        },
+        {
+          "id": "t27",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 165.637,
+          "speech_end_s": 177.37,
+          "end_s": 177.72,
+          "text": "Picture a log ruler, where equal distances mean equal multiplying. The stretch from one to two takes up about thirty percent of the ruler. The stretch from nine to ten? Under five percent."
+        },
+        {
+          "id": "t28",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 177.72,
+          "speech_end_s": 191.08,
+          "end_s": 191.43,
+          "text": "Think of something growing by a steady percentage each year. Going from a thousand to two thousand takes more than six times as long as going from nine thousand to ten thousand. So numbers spend more of their time starting with a one."
+        },
+        {
+          "id": "t29",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.8,
+          "start_s": 191.43,
+          "speech_end_s": 204.076,
+          "end_s": 204.876,
+          "text": "Auditors use this to spot fake data. People inventing numbers tend to spread their first digits too evenly. It only works on numbers that span a wide range, and it can't prove fraud. It just raises a flag."
+        }
+      ]
+    },
+    {
+      "id": "S5_SCALES",
+      "start_s": 204.876,
+      "end_s": 252.416,
+      "takes": [
+        {
+          "id": "t30",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 204.876,
+          "speech_end_s": 209.626,
+          "end_s": 209.976,
+          "text": "That log ruler shows up wherever we need to squash a huge range into small numbers."
+        },
+        {
+          "id": "t31",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 209.976,
+          "speech_end_s": 222.221,
+          "end_s": 222.571,
+          "text": "Earthquakes. Each whole step up the magnitude scale means ten times bigger waves on a seismograph, and about thirty-two times more energy. So a magnitude seven is a hundred times bigger than a five."
+        },
+        {
+          "id": "t32",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 222.571,
+          "speech_end_s": 231.58,
+          "end_s": 231.93,
+          "text": "Acidity. On the pH scale, each step down is ten times more acidic. A pH of three is a thousand times more acidic than a pH of six."
+        },
+        {
+          "id": "t33",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 231.93,
+          "speech_end_s": 246.607,
+          "end_s": 246.957,
+          "text": "And sound. Every ten decibels means ten times more sound intensity. A whisper is about thirty decibels, a jet engine up close about one hundred forty. That's a difference of around a hundred billion times, squeezed into two numbers."
+        },
+        {
+          "id": "t34",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.8,
+          "start_s": 246.957,
+          "speech_end_s": 251.616,
+          "end_s": 252.416,
+          "text": "Same trick every time. A step on the ruler isn't adding. It's multiplying."
+        }
+      ]
+    },
+    {
+      "id": "S6_PAYOFF",
+      "start_s": 252.416,
+      "end_s": 318.109,
+      "takes": [
+        {
+          "id": "t35",
+          "mode": "E",
+          "speed": 0.98,
+          "pause_after_s": 0.4,
+          "start_s": 252.416,
+          "speech_end_s": 256.008,
+          "end_s": 256.408,
+          "text": "Now let's pay off that promise. How many folds to reach the Moon?"
+        },
+        {
+          "id": "t36",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 256.408,
+          "speech_end_s": 267.067,
+          "end_s": 267.417,
+          "text": "The Moon is about three hundred eighty-four thousand kilometers away. Our paper is a tenth of a millimeter thick. So the stack has to get about three point eight trillion times thicker."
+        },
+        {
+          "id": "t37",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 267.417,
+          "speech_end_s": 272.864,
+          "end_s": 273.214,
+          "text": "Here's the mental trick. Two to the power of ten is one thousand twenty-four. Call it a thousand."
+        },
+        {
+          "id": "t38",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 273.214,
+          "speech_end_s": 280.216,
+          "end_s": 280.566,
+          "text": "So ten doublings is about a thousand. Twenty is about a million. Thirty, a billion. Forty, about a trillion."
+        },
+        {
+          "id": "t39",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 280.566,
+          "speech_end_s": 289.027,
+          "end_s": 289.377,
+          "text": "Forty doublings gets us about a trillion, still short. Forty-one isn't enough. But forty-two is a little over four trillion, and that's enough."
+        },
+        {
+          "id": "t40",
+          "mode": "E",
+          "speed": 0.98,
+          "pause_after_s": 0.4,
+          "start_s": 289.377,
+          "speech_end_s": 293.898,
+          "end_s": 294.298,
+          "text": "Forty-two folds. The same answer a calculator gives, worked out in your head."
+        },
+        {
+          "id": "t41",
+          "mode": "N",
+          "speed": 1.0,
+          "pause_after_s": 0.35,
+          "start_s": 294.298,
+          "speech_end_s": 309.464,
+          "end_s": 309.814,
+          "text": "Of course, a normal sheet only folds about seven or eight times by hand. The record is twelve, set by a high school student named Britney Gallivan, using over a kilometer of toilet paper. But the math doesn't care, and that's the power of a log."
+        },
+        {
+          "id": "t42",
+          "mode": "S",
+          "speed": 0.95,
+          "pause_after_s": 1.0,
+          "start_s": 309.814,
+          "speech_end_s": 316.109,
+          "end_s": 317.109,
+          "text": "A log just counts how many times you multiply. Forty-two doublings, and a sheet of paper reaches the Moon."
+        }
+      ]
+    }
+  ]
+}

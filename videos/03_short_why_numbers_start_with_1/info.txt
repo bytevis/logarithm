@@ -1,0 +1,11 @@
+Title: Why Do So Many Numbers Start With 1?
+Format: Vertical Short / Reel (1080x1920, 54.3s)
+Description: Clip C: Simon Newcomb's discovery in 1881, Benford's law frequency bars, and the logarithm ruler payoff.
+
+Files in this folder:
+  - yt_short3.mp4 (2.26 MB)
+  - insta_short3.mp4 (2.25 MB)
+  - C_numbers_start_with_1_vertical.mp4 (2.11 MB)
+  - C_numbers_start_with_1.srt (0.00 MB)
+  - C_numbers_start_with_1.ass (0.00 MB)
+  - C_numbers_start_with_1_cover.png (0.11 MB)

@@ -1,0 +1,11 @@
+Title: The Log Graph Explained in 45 Seconds
+Format: Vertical Short / Reel (1080x1920, 47.6s)
+Description: Clip E: The exponential vs log mirror-image curves across the y=x diagonal line.
+
+Files in this folder:
+  - yt_short5.mp4 (1.95 MB)
+  - insta_short5.mp4 (1.94 MB)
+  - E_log_graph_vertical.mp4 (1.80 MB)
+  - E_log_graph.srt (0.00 MB)
+  - E_log_graph.ass (0.00 MB)
+  - E_log_graph_cover.png (0.13 MB)

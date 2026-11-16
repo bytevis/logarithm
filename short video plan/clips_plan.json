@@ -1,0 +1,69 @@
+{
+  "source_video": "out/log_full_nocaptions.mp4 (preferred). Fallback: the captioned upload, cropped (see shorts_brief.md section 1).",
+  "timing_file": "voice/timing.json (take ids t01..t42 match script.json)",
+  "layout": "A_letterbox_vertical",
+  "cut_rule": {
+    "start": "take.start_s - 0.05",
+    "end": "last_take.speech_end_s + 0.12 (never include the pause after the last take)",
+    "audio_fade_s": 0.10,
+    "join_crossfade_s": 0.25
+  },
+  "clips": [
+    {
+      "id": "A_paper_to_moon",
+      "priority": 1,
+      "headline": "Can paper reach the Moon?",
+      "segments": [["t01", "t03"], ["t36", "t40"]],
+      "est_duration_s": 48,
+      "why": "Best hook. Question first, then jump straight to the mental-math answer (42). Ends on the big 42.",
+      "yt_title": "How Many Folds Reach the Moon? (Do It in Your Head)",
+      "risk": "t36 and t38 had text cut off at the frame edges in the full video. Check frames; if still cut off, do NOT publish this clip until S6 is fixed."
+    },
+    {
+      "id": "B_log_challenge",
+      "priority": 2,
+      "headline": "What does a log actually mean?",
+      "segments": [["t09", "t14"]],
+      "est_duration_s": 35,
+      "why": "The definition plus the 'pause and try one' challenge (log base 2 of 32 = 5). Good for comments.",
+      "yt_title": "What Is a Log? Try This One Without a Calculator",
+      "risk": "Starts mid-explanation (t09 begins 'That's a log'), so the headline must carry the context."
+    },
+    {
+      "id": "C_numbers_start_with_1",
+      "priority": 3,
+      "headline": "Why do so many numbers start with 1?",
+      "segments": [["t22", "t27"]],
+      "est_duration_s": 49,
+      "why": "Strong curiosity story: Benford bars, Newcomb's worn pages, then the log ruler answer.",
+      "yt_title": "Why Do So Many Numbers Start With 1?",
+      "risk": "None known. Ends on 'under five percent' (the ruler payoff)."
+    },
+    {
+      "id": "D_log_scales",
+      "priority": 4,
+      "headline": "The same math hides in earthquakes, acid and sound",
+      "segments": [["t31", "t34"]],
+      "est_duration_s": 39,
+      "why": "Three real-world examples, very visual (seismograph, pH tiles, dB).",
+      "yt_title": "Earthquakes, pH and Sound Use the Same Trick",
+      "risk": "Starts at 'Earthquakes.' (t31); t30 is skipped on purpose because it refers to the log ruler."
+    },
+    {
+      "id": "E_log_graph",
+      "priority": 5,
+      "optional": true,
+      "headline": "The graph that never stops climbing",
+      "segments": [["t16", "t21"]],
+      "est_duration_s": 45,
+      "why": "Mirror-image curves. Abstract, so lowest priority. Make it last or skip.",
+      "yt_title": "The Log Graph Explained in 45 Seconds",
+      "risk": "Visuals are thin lines; small on a letterboxed phone screen."
+    }
+  ],
+  "do_not_make": [
+    "Do not make horizontal (16:9) clips: YouTube never counts them as Shorts and Instagram shrinks them.",
+    "No subscribe or call-to-action text in any clip.",
+    "Do not mention binary search, merge sort or sorting anywhere."
+  ]
+}

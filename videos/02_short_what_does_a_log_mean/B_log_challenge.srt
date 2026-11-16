@@ -1,0 +1,100 @@
+1
+00:00:00,050 --> 00:00:01,249
+That's a log A
+
+2
+00:00:01,249 --> 00:00:02,887
+Log answers one question
+
+3
+00:00:02,999 --> 00:00:03,962
+How many times do
+
+4
+00:00:03,962 --> 00:00:05,643
+I multiply Take eight
+
+5
+00:00:05,693 --> 00:00:06,456
+How many twos do
+
+6
+00:00:06,456 --> 00:00:07,531
+I multiply together to
+
+7
+00:00:07,531 --> 00:00:09,006
+Make it Two times
+
+8
+00:00:09,006 --> 00:00:10,531
+Two times two Three
+
+9
+00:00:10,531 --> 00:00:12,143
+Twos So log base
+
+10
+00:00:12,143 --> 00:00:12,831
+Two of eight is
+
+11
+00:00:12,831 --> 00:00:14,527
+Three Same idea with
+
+12
+00:00:14,527 --> 00:00:16,214
+Tens A thousand is
+
+13
+00:00:16,214 --> 00:00:17,502
+Ten times ten times
+
+14
+00:00:17,502 --> 00:00:18,964
+Ten so log base
+
+15
+00:00:18,964 --> 00:00:19,852
+Ten of a thousand
+
+16
+00:00:19,852 --> 00:00:21,185
+Is three That's the
+
+17
+00:00:21,185 --> 00:00:23,047
+Whole definition A log
+
+18
+00:00:23,047 --> 00:00:24,485
+Counts multiplications
+
+19
+00:00:24,585 --> 00:00:26,369
+It's the exponent Pause
+
+20
+00:00:26,369 --> 00:00:27,532
+And try one What
+
+21
+00:00:27,532 --> 00:00:28,519
+Is log base two
+
+22
+00:00:28,519 --> 00:00:31,621
+Of thirty-two Five Two
+
+23
+00:00:31,621 --> 00:00:32,621
+Times two times two
+
+24
+00:00:32,621 --> 00:00:33,946
+Times two times two
+
+25
+00:00:33,946 --> 00:00:34,785
+Is thirty-two
+

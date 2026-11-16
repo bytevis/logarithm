@@ -1,0 +1,110 @@
+{
+  "duration_s": 6.1883333333333335,
+  "words": [
+    {
+      "word": "If",
+      "start_s": 0.05,
+      "end_s": 0.18
+    },
+    {
+      "word": "this",
+      "start_s": 0.18,
+      "end_s": 0.439
+    },
+    {
+      "word": "helped",
+      "start_s": 0.439,
+      "end_s": 0.827
+    },
+    {
+      "word": "like",
+      "start_s": 0.827,
+      "end_s": 1.086
+    },
+    {
+      "word": "the",
+      "start_s": 1.086,
+      "end_s": 1.281
+    },
+    {
+      "word": "video",
+      "start_s": 1.281,
+      "end_s": 1.604
+    },
+    {
+      "word": "subscribe",
+      "start_s": 1.604,
+      "end_s": 2.187
+    },
+    {
+      "word": "for",
+      "start_s": 2.187,
+      "end_s": 2.382
+    },
+    {
+      "word": "more",
+      "start_s": 2.382,
+      "end_s": 2.641
+    },
+    {
+      "word": "comment",
+      "start_s": 2.641,
+      "end_s": 3.094
+    },
+    {
+      "word": "what",
+      "start_s": 3.094,
+      "end_s": 3.353
+    },
+    {
+      "word": "you'd",
+      "start_s": 3.353,
+      "end_s": 3.677
+    },
+    {
+      "word": "like",
+      "start_s": 3.677,
+      "end_s": 3.936
+    },
+    {
+      "word": "explained",
+      "start_s": 3.936,
+      "end_s": 4.519
+    },
+    {
+      "word": "next",
+      "start_s": 4.519,
+      "end_s": 4.778
+    },
+    {
+      "word": "and",
+      "start_s": 4.778,
+      "end_s": 4.972
+    },
+    {
+      "word": "share",
+      "start_s": 4.972,
+      "end_s": 5.296
+    },
+    {
+      "word": "it",
+      "start_s": 5.296,
+      "end_s": 5.426
+    },
+    {
+      "word": "with",
+      "start_s": 5.426,
+      "end_s": 5.685
+    },
+    {
+      "word": "a",
+      "start_s": 5.685,
+      "end_s": 5.75
+    },
+    {
+      "word": "friend",
+      "start_s": 5.75,
+      "end_s": 6.138
+    }
+  ]
+}

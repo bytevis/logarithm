@@ -1,0 +1,50 @@
+# ByteVis: Logarithm Video Production Engine & Math Explainer
+# Git Ignore Configuration
+
+# Video & Heavy Media Binaries (exclude from git)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.flac
+*.aac
+*.ogg
+
+# Manim Caches & Render Artifacts
+**/media/
+media/
+log_full/media/
+**/partial_movie_files/
+**/Tex/
+**/texts/
+
+# Intermediate Build Outputs & Scratch Dumps
+**/out/
+log_full/out/
+log_full/cta_clips/
+test_vert.png
+test_emoji.*
+
+# Python Bytecode & Environment
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+env/
+ENV/
+
+# System & IDE Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

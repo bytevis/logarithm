@@ -1,0 +1,52 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Headline,Arial,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,90,90,330,1
+Style: Caption,Arial,76,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,140,140,1320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:50.99,Headline,,90,90,330,,Why do so many numbers start with {\c&H000B9EF5&}1{\c&H00FFFFFF&}?
+Dialogue: 1,0:00:00.09,0:00:00.98,Caption,,140,140,1320,,Now here's something
+Dialogue: 1,0:00:00.98,0:00:02.72,Caption,,140,140,1320,,Strange Take any big
+Dialogue: 1,0:00:02.72,0:00:04.09,Caption,,140,140,1320,,List of real numbers
+Dialogue: 1,0:00:04.23,0:00:05.89,Caption,,140,140,1320,,City populations river
+Dialogue: 1,0:00:05.89,0:00:07.64,Caption,,140,140,1320,,Lengths prices Look at
+Dialogue: 1,0:00:07.64,0:00:08.62,Caption,,140,140,1320,,Just the first digit
+Dialogue: 1,0:00:08.62,0:00:09.81,Caption,,140,140,1320,,Of each one You'd
+Dialogue: 1,0:00:09.81,0:00:10.90,Caption,,140,140,1320,,Expect the digits one
+Dialogue: 1,0:00:10.90,0:00:11.81,Caption,,140,140,1320,,Through nine to show
+Dialogue: 1,0:00:11.81,0:00:13.58,Caption,,140,140,1320,,Up about equally roughly
+Dialogue: 1,0:00:13.58,0:00:15.24,Caption,,140,140,1320,,Eleven percent each But
+Dialogue: 1,0:00:15.24,0:00:16.64,Caption,,140,140,1320,,They don't The digit
+Dialogue: 1,0:00:16.64,0:00:17.81,Caption,,140,140,1320,,One leads about thirty
+Dialogue: 1,0:00:17.81,0:00:19.04,Caption,,140,140,1320,,Percent of the time
+Dialogue: 1,0:00:19.16,0:00:20.45,Caption,,140,140,1320,,The digit nine Under
+Dialogue: 1,0:00:20.45,0:00:22.99,Caption,,140,140,1320,,Five In 1881 an
+Dialogue: 1,0:00:22.99,0:00:24.47,Caption,,140,140,1320,,Astronomer named Simon
+Dialogue: 1,0:00:24.47,0:00:25.27,Caption,,140,140,1320,,Newcomb noticed
+Dialogue: 1,0:00:25.27,0:00:26.17,Caption,,140,140,1320,,Something odd in a
+Dialogue: 1,0:00:26.17,0:00:27.86,Caption,,140,140,1320,,Library In the books
+Dialogue: 1,0:00:27.86,0:00:29.48,Caption,,140,140,1320,,Of logarithm tables the
+Dialogue: 1,0:00:29.48,0:00:30.77,Caption,,140,140,1320,,First pages were far
+Dialogue: 1,0:00:30.77,0:00:31.57,Caption,,140,140,1320,,More worn than the
+Dialogue: 1,0:00:31.57,0:00:33.04,Caption,,140,140,1320,,Last He guessed that
+Dialogue: 1,0:00:33.04,0:00:33.96,Caption,,140,140,1320,,People were looking up
+Dialogue: 1,0:00:33.96,0:00:35.25,Caption,,140,140,1320,,Numbers starting with
+Dialogue: 1,0:00:35.25,0:00:36.76,Caption,,140,140,1320,,One far more often
+Dialogue: 1,0:00:36.89,0:00:37.74,Caption,,140,140,1320,,And the reason is
+Dialogue: 1,0:00:37.74,0:00:38.78,Caption,,140,140,1320,,Hiding in a log
+Dialogue: 1,0:00:39.13,0:00:40.55,Caption,,140,140,1320,,Picture a log ruler
+Dialogue: 1,0:00:40.62,0:00:41.88,Caption,,140,140,1320,,Where equal distances
+Dialogue: 1,0:00:41.88,0:00:43.75,Caption,,140,140,1320,,Mean equal multiplying
+Dialogue: 1,0:00:43.88,0:00:44.77,Caption,,140,140,1320,,The stretch from one
+Dialogue: 1,0:00:44.77,0:00:45.71,Caption,,140,140,1320,,To two takes up
+Dialogue: 1,0:00:45.71,0:00:46.91,Caption,,140,140,1320,,About thirty percent of
+Dialogue: 1,0:00:46.91,0:00:48.42,Caption,,140,140,1320,,The ruler The stretch
+Dialogue: 1,0:00:48.42,0:00:49.60,Caption,,140,140,1320,,From nine to ten
+Dialogue: 1,0:00:49.72,0:00:50.87,Caption,,140,140,1320,,Under five percent

@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,58,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,60,60,340,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.20,Default,,60,60,340,,If you fold a regular
+Dialogue: 0,0:00:01.20,0:00:02.35,Default,,60,60,340,,sheet of paper in half
+Dialogue: 0,0:00:02.35,0:00:03.59,Default,,60,60,340,,to reach the Moon ,
+Dialogue: 0,0:00:03.59,0:00:06.90,Default,,60,60,340,,384,400 kilometers away
+Dialogue: 0,0:00:06.90,0:00:07.96,Default,,60,60,340,,, how many folds would
+Dialogue: 0,0:00:07.96,0:00:09.39,Default,,60,60,340,,it take Most people
+Dialogue: 0,0:00:09.39,0:00:10.66,Default,,60,60,340,,guess thousands or even
+Dialogue: 0,0:00:10.66,0:00:12.09,Default,,60,60,340,,millions . But the real
+Dialogue: 0,0:00:12.09,0:00:13.35,Default,,60,60,340,,answer is shockingly
+Dialogue: 0,0:00:13.35,0:00:14.79,Default,,60,60,340,,small Every time you
+Dialogue: 0,0:00:14.79,0:00:15.80,Default,,60,60,340,,fold a paper , its
+Dialogue: 0,0:00:15.80,0:00:17.42,Default,,60,60,340,,thickness doubles . One
+Dialogue: 0,0:00:17.42,0:00:19.09,Default,,60,60,340,,fold gives two layers .
+Dialogue: 0,0:00:19.09,0:00:20.63,Default,,60,60,340,,Two folds give four .
+Dialogue: 0,0:00:20.63,0:00:22.41,Default,,60,60,340,,Three folds give eight A
+Dialogue: 0,0:00:22.41,0:00:23.87,Default,,60,60,340,,logarithm base two
+Dialogue: 0,0:00:23.87,0:00:24.70,Default,,60,60,340,,simply flips the
+Dialogue: 0,0:00:24.70,0:00:26.30,Default,,60,60,340,,question : it counts how
+Dialogue: 0,0:00:26.30,0:00:27.45,Default,,60,60,340,,many doublings it takes
+Dialogue: 0,0:00:27.45,0:00:29.08,Default,,60,60,340,,to reach your target Log
+Dialogue: 0,0:00:29.08,0:00:29.99,Default,,60,60,340,,base two of eight is
+Dialogue: 0,0:00:29.99,0:00:31.20,Default,,60,60,340,,three , because three
+Dialogue: 0,0:00:31.20,0:00:32.92,Default,,60,60,340,,doublings make eight Now
+Dialogue: 0,0:00:32.92,0:00:34.12,Default,,60,60,340,,look at the Moon .
+Dialogue: 0,0:00:34.12,0:00:35.55,Default,,60,60,340,,The average distance is
+Dialogue: 0,0:00:35.55,0:00:39.01,Default,,60,60,340,,384,400 kilometers .
+Dialogue: 0,0:00:39.01,0:00:40.04,Default,,60,60,340,,Compared to a tenth of
+Dialogue: 0,0:00:40.04,0:00:41.52,Default,,60,60,340,,a millimeter of paper ,
+Dialogue: 0,0:00:41.52,0:00:43.06,Default,,60,60,340,,that's about 3.8
+Dialogue: 0,0:00:43.06,0:00:44.67,Default,,60,60,340,,trillion layers Ten
+Dialogue: 0,0:00:44.67,0:00:45.60,Default,,60,60,340,,folds is about a
+Dialogue: 0,0:00:45.60,0:00:47.11,Default,,60,60,340,,thousand layers , ten
+Dialogue: 0,0:00:47.11,0:00:48.63,Default,,60,60,340,,centimeters high Twenty
+Dialogue: 0,0:00:48.63,0:00:50.38,Default,,60,60,340,,folds is a million .
+Dialogue: 0,0:00:50.38,0:00:51.38,Default,,60,60,340,,Thirty folds is a
+Dialogue: 0,0:00:51.38,0:00:52.81,Default,,60,60,340,,billion , over a hundred
+Dialogue: 0,0:00:52.81,0:00:54.30,Default,,60,60,340,,kilometers up Forty
+Dialogue: 0,0:00:54.30,0:00:55.96,Default,,60,60,340,,folds is over a trillion
+Dialogue: 0,0:00:55.96,0:00:58.05,Default,,60,60,340,,, 110,000 kilometers
+Dialogue: 0,0:00:58.34,0:01:00.16,Default,,60,60,340,,Forty-one is 220,000
+Dialogue: 0,0:01:00.16,0:01:01.89,Default,,60,60,340,,kilometers , still short
+Dialogue: 0,0:01:02.19,0:01:03.54,Default,,60,60,340,,And forty-two folds ?
+Dialogue: 0,0:01:03.54,0:01:05.81,Default,,60,60,340,,440,000 kilometers .
+Dialogue: 0,0:01:05.81,0:01:07.34,Default,,60,60,340,,Past the Moon Just
+Dialogue: 0,0:01:07.34,0:01:09.02,Default,,60,60,340,,forty-two folds . That
+Dialogue: 0,0:01:09.02,0:01:09.96,Default,,60,60,340,,is what a logarithm
+Dialogue: 0,0:01:09.96,0:01:11.58,Default,,60,60,340,,actually is : counting
+Dialogue: 0,0:01:11.58,0:01:12.50,Default,,60,60,340,,the hidden steps of
+Dialogue: 0,0:01:12.50,0:01:13.57,Default,,60,60,340,,explosive growth

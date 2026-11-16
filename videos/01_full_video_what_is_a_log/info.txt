@@ -1,0 +1,10 @@
+Title: What a Log Actually Is: How 42 Folds Reach the Moon
+Format: Full Horizontal Video (1920x1080, 5m 28s)
+Description: Full math explainer video with animated voiceover, chapters, captions, branding watermark, and YouTube end card.
+
+Files in this folder:
+  - yt_full1.mp4 (14.67 MB)
+  - log_full_captions_clean.mp4 (12.92 MB)
+  - captions.srt (0.01 MB)
+  - captions.ass (0.01 MB)
+  - chapters.txt (0.00 MB)

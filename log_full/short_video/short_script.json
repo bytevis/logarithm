@@ -1,0 +1,74 @@
+[
+  {
+    "id": "st01",
+    "text": "If you fold a regular sheet of paper in half to reach the Moon, 384,400 kilometers away, how many folds would it take?",
+    "speed": 1.02,
+    "pause_after_s": 0.4
+  },
+  {
+    "id": "st02",
+    "text": "Most people guess thousands or even millions. But the real answer is shockingly small.",
+    "speed": 1.0,
+    "pause_after_s": 0.4
+  },
+  {
+    "id": "st03",
+    "text": "Every time you fold a paper, its thickness doubles. One fold gives two layers. Two folds give four. Three folds give eight.",
+    "speed": 1.0,
+    "pause_after_s": 0.4
+  },
+  {
+    "id": "st04",
+    "text": "A logarithm base two simply flips the question: it counts how many doublings it takes to reach your target.",
+    "speed": 0.98,
+    "pause_after_s": 0.4
+  },
+  {
+    "id": "st05",
+    "text": "Log base two of eight is three, because three doublings make eight.",
+    "speed": 1.0,
+    "pause_after_s": 0.5
+  },
+  {
+    "id": "st06",
+    "text": "Now look at the Moon. The average distance is 384,400 kilometers. Compared to a tenth of a millimeter of paper, that's about 3.8 trillion layers.",
+    "speed": 1.0,
+    "pause_after_s": 0.4
+  },
+  {
+    "id": "st07",
+    "text": "Ten folds is about a thousand layers, ten centimeters high.",
+    "speed": 1.0,
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "st08",
+    "text": "Twenty folds is a million. Thirty folds is a billion, over a hundred kilometers up.",
+    "speed": 1.0,
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "st09",
+    "text": "Forty folds is over a trillion, 110,000 kilometers.",
+    "speed": 1.0,
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "st10",
+    "text": "Forty-one is 220,000 kilometers, still short.",
+    "speed": 1.0,
+    "pause_after_s": 0.3
+  },
+  {
+    "id": "st11",
+    "text": "And forty-two folds? 440,000 kilometers. Past the Moon.",
+    "speed": 0.98,
+    "pause_after_s": 0.4
+  },
+  {
+    "id": "st12",
+    "text": "Just forty-two folds. That is what a logarithm actually is: counting the hidden steps of explosive growth.",
+    "speed": 0.96,
+    "pause_after_s": 0.8
+  }
+]

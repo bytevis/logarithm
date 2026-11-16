@@ -1,0 +1,136 @@
+1
+00:00:00,051 --> 00:00:01,388
+Let's draw it Folds
+
+2
+00:00:01,388 --> 00:00:02,688
+Along the bottom layers
+
+3
+00:00:02,688 --> 00:00:03,876
+Up the side The
+
+4
+00:00:03,876 --> 00:00:05,251
+Curve starts slowly then
+
+5
+00:00:05,251 --> 00:00:06,526
+Rockets up That's
+
+6
+00:00:06,526 --> 00:00:08,356
+Exponential growth Now
+
+7
+00:00:08,356 --> 00:00:10,119
+Swap the axes Layers
+
+8
+00:00:10,119 --> 00:00:11,356
+Along the bottom folds
+
+9
+00:00:11,356 --> 00:00:12,531
+Up the side It's
+
+10
+00:00:12,531 --> 00:00:14,119
+The same curve flipped
+
+11
+00:00:14,256 --> 00:00:15,081
+This is the graph
+
+12
+00:00:15,081 --> 00:00:16,404
+Of a log Watch
+
+13
+00:00:16,404 --> 00:00:17,841
+How it behaves It
+
+14
+00:00:17,841 --> 00:00:18,729
+Shoots up at first
+
+15
+00:00:18,779 --> 00:00:20,429
+Then flattens And every
+
+16
+00:00:20,429 --> 00:00:21,454
+Time the number doubles
+
+17
+00:00:21,529 --> 00:00:22,379
+The log goes up
+
+18
+00:00:22,379 --> 00:00:23,935
+By exactly one One
+
+19
+00:00:23,935 --> 00:00:25,135
+To two one step
+
+20
+00:00:25,247 --> 00:00:26,085
+Two to four one
+
+21
+00:00:26,085 --> 00:00:27,235
+Step Four to eight
+
+22
+00:00:27,285 --> 00:00:28,510
+One step Eight to
+
+23
+00:00:28,510 --> 00:00:30,055
+Sixteen one more It
+
+24
+00:00:30,055 --> 00:00:31,467
+Never stops climbing but
+
+25
+00:00:31,467 --> 00:00:32,692
+It climbs incredibly
+
+26
+00:00:32,692 --> 00:00:34,355
+Slowly To get from
+
+27
+00:00:34,355 --> 00:00:35,380
+One to a million
+
+28
+00:00:35,480 --> 00:00:36,705
+The log only reaches
+
+29
+00:00:36,705 --> 00:00:38,169
+About twenty The two
+
+30
+00:00:38,169 --> 00:00:39,757
+Curves are mirror images
+
+31
+00:00:39,757 --> 00:00:41,494
+Across a diagonal line
+
+32
+00:00:41,657 --> 00:00:42,532
+A log is the
+
+33
+00:00:42,532 --> 00:00:43,519
+Undo button for an
+
+34
+00:00:43,519 --> 00:00:44,174
+Exponent
+

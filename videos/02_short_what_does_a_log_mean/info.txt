@@ -1,0 +1,11 @@
+Title: What Is a Log? Try This One Without a Calculator
+Format: Vertical Short / Reel (1080x1920, 38.3s)
+Description: Clip B: Explains the definition of logarithm and gives the 2^5=32 mental-math pause challenge.
+
+Files in this folder:
+  - yt_short2.mp4 (1.63 MB)
+  - insta_short2.mp4 (1.62 MB)
+  - B_log_challenge_vertical.mp4 (1.47 MB)
+  - B_log_challenge.srt (0.00 MB)
+  - B_log_challenge.ass (0.00 MB)
+  - B_log_challenge_cover.png (0.11 MB)
